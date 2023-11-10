@@ -3,7 +3,7 @@
     public class Bebidas
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string Preço { get; set; }
+        public required string Name { get; set; }
+        public required string Preço { get; set; }
     }
 }
