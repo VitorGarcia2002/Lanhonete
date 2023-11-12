@@ -1,5 +1,5 @@
-## Trabalho de Desenvolvimento de Software Visual ## 
-# Alunos: #
--Vitor Garcia Brasilio
--João Vitor Perry
--Murilo Domingues
+# Trabalho de Desenvolvimento de Software Visual # 
+## ALUNOS ##
+- Vitor Garcia Brasilio
+- Murilo Domingues
+- João Vitor Perry
